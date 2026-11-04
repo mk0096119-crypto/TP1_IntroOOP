@@ -9,7 +9,7 @@ public class Student {
 	    int id;
 
 	    String major;
-
+//TASK1
 		public String email;
 
 	    // Method
