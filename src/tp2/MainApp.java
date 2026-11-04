@@ -18,7 +18,7 @@ public class MainApp {
 		        student2.major = "Cybersecurity";
 		        student2.email = "sara@univ.dz";
 
-		        // استدعاء دالة الطباعة
+		        // TASK3
 		        student1.displayInfo();
 		        student1.major = "Artificial Intelligence";
 		        student1.displayInfo();
