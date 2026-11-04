@@ -10,6 +10,7 @@ public class Student {
 
 	    String major;
 //TASK1
+	    
 		public String email;
 
 	    // Method

@@ -24,7 +24,7 @@ public class MainApp {
 		        student1.displayInfo();
 		        student2.displayInfo();
 		        student2.study();
-		     // إنشاء الطالب الثالث (أنا)
+		     // TASK2
 		        Student student3 = new Student();
 		        student3.name = "Malak";
 		        student3.id = 39299616;
